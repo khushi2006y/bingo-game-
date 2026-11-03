@@ -27,19 +27,6 @@ Built with **React**, **Vite**, **Tailwind CSS**, and a **Node.js + Express + So
 - **⏱️ Turn Timer**:
   - Optional countdown (10s, 15s, 20s default, 30s, 45s).
   - Automatically calls a random uncalled number from the active player's board if time expires.
-- **🎨 Burgundy & Emerald Aesthetic**:
-  - Primary UI, headers, and buttons in deep burgundy (`#800020`).
-  - Accents, successes, and line completions in rich emerald/sage green.
-  - Warm cream background and alternating light pink / light mint checkerboard cell tints.
-  - Animated burgundy **X** stamps when cells are marked.
-- **🐾 Mini Mascot Companion ("Kiran")**:
-  - Sits in the corner cheering you on with dynamic speech bubbles.
-  - Reacts to turn changes, cheers on completed lines, encourages when behind, and celebrates victory.
-  - Toggleable on/off anytime.
-  - Supports custom character image: place `mascot.png` in `client/public/mascot.png` to use your own character!
-- **🔊 Zero-Dependency Web Audio Synth**:
-  - Built-in audio effects for cell taps, number calls, line completions, and victory fanfares without external audio file latency.
-  - Master mute/unmute toggle.
 - **🎉 Victory Celebration**: Confetti fireworks, match stats, and seamless 1-tap rematching.
 
 ---
